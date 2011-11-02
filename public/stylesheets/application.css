@@ -34,6 +34,8 @@ a:visited { color: #0069cc;}
 a:hover   { color: #0069cc; text-decoration: underline; }
 a.action  { float: right; font-size: 0.9em;}
 
+.darkbg { background: #222222; }
+
 #header > div, #nav-bar, #content-wrapper, #footer {
   width: 930px;
   margin: 0 auto;
